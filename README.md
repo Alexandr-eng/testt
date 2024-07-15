@@ -8,7 +8,7 @@
    ```sh
    git clone https://github.com/Alexandr-eng/testt.git
    
-Установите зависимости:
+##Установите зависимости:
 
 
 pip install -r requirements.txt
@@ -16,11 +16,12 @@ pip install -r requirements.txt
 
 python manage.py makemigrations
 python manage.py migrate
-Создайте суперпользователя:
+
+##Создайте суперпользователя:
 
 python manage.py createsuperuser
 
-Запустите сервер разработки:
+##Запустите сервер разработки:
 
 python manage.py runserver
 
