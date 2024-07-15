@@ -8,7 +8,7 @@
    ```sh
    git clone https://github.com/Alexandr-eng/testt.git
    
-##Установите зависимости:
+Установите зависимости:
 
 
 pip install -r requirements.txt
