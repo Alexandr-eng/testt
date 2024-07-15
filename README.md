@@ -8,7 +8,7 @@
    ```sh
    git clone https://github.com/Alexandr-eng/testt.git
    
-Установите зависимости:
+##Установите зависимости:
 
 
 pip install -r requirements.txt
@@ -29,7 +29,7 @@ python manage.py runserver
 
 
 
-Структура проекта
+##Структура проекта
 api: Приложение, содержащее модели, сериализаторы, представления и админку.
 
 models.py: Определение моделей Worker, Store и Visit.
