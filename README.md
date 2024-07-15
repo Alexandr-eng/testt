@@ -6,7 +6,7 @@
 
 1. **Клонируйте репозиторий**:
    ```sh
-   git clone https://github.com/Alexandr-eng/testt
+   git clone https://github.com/Alexandr-eng/testt.git
    
 Установите зависимости:
 
